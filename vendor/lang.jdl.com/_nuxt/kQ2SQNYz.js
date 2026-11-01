@@ -1,0 +1,1 @@
+import{_ as t}from"#entry";const e=(e,o)=>{const r=t({},e);return Object.keys(o).forEach(t=>{const e=r[t];if(!e)throw new Error(`not have ${t} prop`);e.type||e.default?e.default=o[t]:e.def?e.def(o[t]):r[t]={type:e,default:o[t]}}),r};function o(e,o){const r=t({},e);for(let t=0;t<o.length;t+=1){delete r[o[t]]}return r}export{e as i,o};

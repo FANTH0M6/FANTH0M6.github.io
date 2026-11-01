@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[193],{982:function(e,s,c){"use strict";c.r(s),s.default={headerTitle:"优惠券",emptyText:"当前没有可用优惠券",all:"全部",express:"快递券",heavy:"重货券",unused:"未使用",used:"已使用",expired:"已过期",productDesc:"限产品：",serviceDesc:"限服务：",areaDesc:"限城市：",restrictedUseDesc:"说&#x3000;明："}}}]);

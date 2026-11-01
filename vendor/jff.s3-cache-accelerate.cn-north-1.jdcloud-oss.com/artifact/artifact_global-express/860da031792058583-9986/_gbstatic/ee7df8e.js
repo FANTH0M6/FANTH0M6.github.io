@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[234],{1022:function(s,o){s.exports={h1:"打木架城市查询",addressSelectInfo:"选择查询地址",addressPlaceholder:"选择省市区",search:"查 询",supportMsg:"该城市支持木质包装服务，快去寄件吧",notSupportMsg:"该城市目前暂不支持木质包装服务，敬请期待",errorMsg:"服务器繁忙，请稍后重试"}}}]);

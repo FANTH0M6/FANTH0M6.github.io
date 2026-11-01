@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[197],{986:function(n,w,o){"use strict";o.r(w),w.default={CNY:"人民币",CNY2:"元",HKD:"港币",MOP:"澳门元",USD:"美元",EUR:"欧元",JPY:"日元",GBP:"英镑",CHF:"瑞士法郎"}}}]);

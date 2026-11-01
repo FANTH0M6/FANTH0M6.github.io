@@ -1,0 +1,50 @@
+<!DOCTYPE html><html><head><meta charset="utf8">
+<meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0">
+<script type="importmap">{"imports":{"#entry":"/_nuxt/DIPUh3uW.js"}}</script>
+<script src="/js/joya.js"></script>
+<script src="//wl.jd.com/boomerang.min.js"></script>
+<link rel="stylesheet" href="/_nuxt/entry.DxKnod9K.css" crossorigin>
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/DIPUh3uW.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/default.CiZCOlDC.css">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/Header.BcPCjjqA.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/v4E6KLsb.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/3Q-gRp4w.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/PuiBWS9O.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DJK3sb9N.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DEQ23xuW.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DBMflRrd.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/kQ2SQNYz.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CVCWtGeC.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/BIK2nGnK.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/ZmCMIsUa.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/kW1F6zI-.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/0L9dnbdJ.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/CIyXE_V1.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/lnE-ZKGp.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/c8YLmrmC.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/Bf4ijC5P.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/C3WaM6qr.js">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/DVeXBwBl.js">
+<link rel="prefetch" as="style" crossorigin href="/_nuxt/single.D__uAwY2.css">
+<link rel="prefetch" as="script" crossorigin href="/_nuxt/D6ECR0zi.js">
+<meta name="format-detection" content="telephone=no">
+<meta name="theme-color" content="#ffffff">
+<script>
+            var enableBoomer = document.location.host==="lang.jdl.com";
+            BOOMR.init({
+                siteid: "JA2025_135507",
+                autorun: false,
+                log: null,
+                History: {
+                    auto: enableBoomer
+                },
+                Errors: {
+                    monitorGlobal: enableBoomer,
+                    monitorNetwork: enableBoomer,
+                    monitorConsole: enableBoomer,
+                    monitorEvents: enableBoomer,
+                    monitorTimeout: enableBoomer
+                }
+            });
+          </script>
+<script type="module" src="/_nuxt/DIPUh3uW.js" crossorigin></script><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" /></head><body><div id="__nuxt"></div><div id="teleports"></div><script>window.__NUXT_SITE_CONFIG__={defaultLocale:"zh-CN",env:"production",name:"@vben\u002Fwolfbrain-portal",url:"http:\u002F\u002Flangu.jdl.com"}</script><script>window.__NUXT__=(function(a,b,c,d){return {prerenderedAt:1783415845288,serverRendered:a,config:{public:{apiBase:"\u002Fapi",siteUrl:"http:\u002F\u002Flangu.jdl.com",captchaScriptUrl:"\u002F\u002Fbeta-jcap.m.jd.com\u002Fhome\u002FrequireCaptchaPc.js?v=2",i18n:{baseUrl:b,defaultLocale:d,defaultDirection:"ltr",strategy:"prefix_except_default",lazy:c,rootRedirect:b,routesNameSeparator:"___",defaultLocaleRouteNameSuffix:"default",skipSettingLocaleOnNavigate:a,differentDomains:a,trailingSlash:a,locales:[{name:"English",code:"en-US",files:[{path:"\u002Fsource\u002Fapps\u002Fwolfbrain-portal\u002Fi18n\u002Flocales\u002Fen-US\u002Fen-US.json",cache:b}]},{name:"中文",code:d,files:[{path:"\u002Fsource\u002Fapps\u002Fwolfbrain-portal\u002Fi18n\u002Flocales\u002Fzh-CN\u002Fzh-CN.json",cache:b}]}],detectBrowserLanguage:{alwaysRedirect:a,cookieCrossOrigin:a,cookieDomain:b,cookieKey:"i18n_locale",cookieSecure:a,fallbackLocale:b,redirectOn:"root",useCookie:c},experimental:{localeDetector:b,switchLocalePathLinkSSR:a,autoImportTranslationFunctions:a,typedPages:c,typedOptionsAndMessages:a,generatedLocaleFilePathFormat:"absolute",alternateLinkCanonicalQueries:a,hmr:c},multiDomainLocales:a,domainLocales:{"en-US":{domain:b},"zh-CN":{domain:b}}}},app:{baseURL:"\u002F",buildId:"0ffd1c52-b883-492f-92be-699e398b7595",buildAssetsDir:"\u002F_nuxt\u002F",cdnURL:b}}}}(false,"",true,"zh-CN"))</script></body></html>

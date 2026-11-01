@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[205],{993:function(r,e,o){"use strict";o.r(e),e.default={orderSearch:{waybillPlaceholder:"請輸入運單號或包裹號查詢，多行單用逗號，空格或換行符隔開",errorMsg1:"不允許運單號和包裹號混合查詢",errorMsg2:"僅支持同一運單號的包裹軌跡查詢",errorMsg3:"運單號、包裹號錯誤或重復"}}}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[235],{1023:function(s,o){s.exports={h1:"打木架城市查詢",addressSelectInfo:"選擇查詢地址",addressPlaceholder:"選擇省市區",search:"查 詢",supportMsg:"城市支持木質包裝服務，快去寄件吧",notSupportMsg:"市府目前暫不支援木質包裝服務，敬請期待",errorMsg:"伺服器繁忙，請稍後重試"}}}]);

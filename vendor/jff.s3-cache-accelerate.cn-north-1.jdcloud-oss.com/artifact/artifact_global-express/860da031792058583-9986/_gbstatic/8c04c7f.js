@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[195],{984:function(s,e,u){"use strict";u.r(e),e.default={express:"快递",heavy:"重货",endTime:"{0}到期",fullCut:"满{0}元可用",disCount:"最高减{0}元",noThreshold:"无门槛",certificate:"{0}券",break:"折",first:"元",receivedSuccessfully:"领取成功",submittedSuccessfully:"提交成功",establishDiscountCoupons:"立减券",coupons:"折扣券",fullDiscountCoupon:"满减券"}}}]);
