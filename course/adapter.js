@@ -15,6 +15,18 @@
     };
     showUnavailable();const observer=new MutationObserver(showUnavailable);observer.observe(document.body,{childList:true,subtree:true});
   }
+  // The page body is a fixed-height scroll container, so a note left at the end
+  // of <body> lands outside the flow. Move it inside the rendered page root.
+  const placeFootnote=()=>{
+    const note=document.querySelector('.site-footnote');
+    const layout=document.getElementById('__layout');
+    if(!note||!layout)return;
+    const host=layout.lastElementChild;
+    if(!host||note.parentElement===host)return;
+    host.append(note);
+  };
+  placeFootnote();
+  new MutationObserver(placeFootnote).observe(document.body,{childList:true,subtree:true});
   // Preserve normal full-document navigation so every path also works after a
   // refresh, with static hosting and without a homepage catch-all route.
   document.querySelectorAll('a[href^="/vendor/"]').forEach(a=>{if(!/\.(pdf|mp4|mp3)(\?|$)/i.test(a.href))a.removeAttribute('target')});

@@ -1,5 +1,5 @@
 /* Page-level adjustments for the static copy: footnote styling and placeholder blocks. */
-.site-footnote{font:12px/1.9 Arial,"Microsoft YaHei",sans-serif;text-align:center;padding:22px 40px 30px;color:#9aa2ac;clear:both}
+.site-footnote{font:12px/1.9 Arial,"Microsoft YaHei",sans-serif;text-align:center;padding:16px 40px;color:#8b929c;background:#f3f4f7;clear:both}
 .site-footnote a{color:#9aa2ac;margin-left:6px;text-decoration:underline}
 a:focus-visible,button:focus-visible{outline:2px solid #c32736;outline-offset:4px}
 ::selection{background:#ffd4da;color:#521620}
