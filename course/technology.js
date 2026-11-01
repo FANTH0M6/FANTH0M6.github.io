@@ -1,6 +1,5 @@
 (()=>{
-  const dialog=document.createElement('dialog');dialog.className='course-dialog';dialog.innerHTML='<button type="button" aria-label="关闭">×</button><h2>课程复刻说明</h2><p>账号、注册和真实业务由京东系统提供，课程副本不收集账号或密码。</p>';document.body.append(dialog);dialog.querySelector('button').onclick=()=>dialog.close();
-  document.querySelectorAll('[data-course-account]').forEach(button=>button.addEventListener('click',e=>{e.preventDefault();dialog.showModal()}));
+  document.querySelectorAll('[data-course-account]').forEach(button=>button.addEventListener('click',e=>e.preventDefault()));
   const id=location.pathname.match(/product\/(\d+)/)?.[1];
   fetch('/course/technology-gallery.json').then(r=>r.json()).then(all=>{
     const data=all[id];if(!data)return;
